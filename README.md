@@ -212,4 +212,6 @@ Feedstock Maintainers
 =====================
 
 * [@ocefpaf](https://github.com/ocefpaf/)
+* [@sadielbartholomew](https://github.com/sadielbartholomew/)
+* [@valeriupredoi](https://github.com/valeriupredoi/)
 
